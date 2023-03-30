@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Typy trójkątów\Typy trójkątów\bin\Debug\Typy trójkątów.exe.config
+C:\Users\user\source\repos\Typy trójkątów\Typy trójkątów\bin\Debug\Typy trójkątów.exe
+C:\Users\user\source\repos\Typy trójkątów\Typy trójkątów\bin\Debug\Typy trójkątów.pdb
+C:\Users\user\source\repos\Typy trójkątów\Typy trójkątów\obj\Debug\Typy trójkątów.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Typy trójkątów\Typy trójkątów\obj\Debug\Typy_trójkątów.FormTypyTrójkątów.resources
+C:\Users\user\source\repos\Typy trójkątów\Typy trójkątów\obj\Debug\Typy_trójkątów.Properties.Resources.resources
+C:\Users\user\source\repos\Typy trójkątów\Typy trójkątów\obj\Debug\Typy trójkątów.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Typy trójkątów\Typy trójkątów\obj\Debug\Typy trójkątów.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Typy trójkątów\Typy trójkątów\obj\Debug\Typy trójkątów.exe
+C:\Users\user\source\repos\Typy trójkątów\Typy trójkątów\obj\Debug\Typy trójkątów.pdb
+C:\Users\user\source\repos\Typy trójkątów\Typy trójkątów\obj\Debug\Typy_trójkątów.Form2.resources
